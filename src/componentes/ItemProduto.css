@@ -1,0 +1,7 @@
+:local(.back){
+    background-color: black;
+}
+
+:local(.font){
+    color: white;
+}
